@@ -1,0 +1,18 @@
+.todo-list .sort-col:first-child {
+  min-width: 30px;
+  width: 30px;
+}
+.todo-list .actions-col:last-child {
+  min-width: 30px;
+  width: 30px;
+}
+.todo-list .actions-col:last-child span {
+ cursor: pointer;
+}
+.todo-list .complete-col {
+  min-width: 30px;
+  width: 30px;
+}
+.todo-list .completed-row td {
+  color: #999a9b;
+}
